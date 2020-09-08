@@ -1,0 +1,56 @@
+﻿body{
+	background-color:#CCCCCC;
+	border-width:20px;
+	border-color:red;
+	background-image:url('Images/Minion.jpg');
+	height:90%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	}
+
+.heading{
+	
+	text-align:center;
+	font-size:40px;
+	font-style:italic;
+	color:red;
+	font-family:'Lucida Calligraphy';
+	margin-top:10px;
+	font-weight:bolder;
+	
+}
+
+.managed{
+	font-family:cursive;
+	font-weight:bold;
+	color:#800000;
+	font-size:30px;
+	margin-top:15px;
+}
+
+.info{
+	font-family:"Franklin Gothic Demi Cond";
+	color:fuchsia;
+	font-weight:bolder;
+	font-style:italic;
+	text-align:center;
+	font-size:35px;
+	
+}
+
+li{
+	color:green;
+	font-weight:normal;
+	font-size:20px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin:20px;
+	
+}
+li a:hover{
+	background-color:white;
+	color:red;
+}
+.footer-text{
+	text-align:right;
+}
